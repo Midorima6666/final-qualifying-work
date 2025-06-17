@@ -8,3 +8,4 @@ scipy
 scikit-learn
 numpy
 streamlit
+streamlit-folium>=0.15.1
