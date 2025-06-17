@@ -1,0 +1,10 @@
+pandas
+folium
+ipywidgets
+h3
+geojson
+matplotlib
+scipy
+scikit-learn
+numpy
+streamlit
